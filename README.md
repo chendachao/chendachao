@@ -30,6 +30,8 @@ I'm open-source development enthusiast.
 
 ![Larry's stats](https://github-readme-stats.vercel.app/api?username=chendachao&show_icons=true)
 
+![Activity analytics](https://repobeats.axiom.co/api/embed/b94bc3d880cbd687bf0e001d69800812774cb0f7.svg "Repobeats analytics image")
+
 <!--
 **chendachao/chendachao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
