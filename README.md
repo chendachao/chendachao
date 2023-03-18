@@ -4,12 +4,15 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/dachaochen.svg?style=social&label=Follow%20%40dachaochen)](https://twitter.com/dachaochen)
 
 
-## About me 
-I'm a software development engineer. I like to work with Angular, React, NodeJS and Linux. I love Linux Kernel based OSs such as Ubuntu and CentOS.
-I'm open-source development enthusiast.
+## 👋 Hi there  
+I'm a Frontend developer. I love Linux Kernel based OSs such as Ubuntu and CentOS. And also like to work with Angular, React, NodeJS and Linux. 
+I'm an open-source development enthusiast by the way.
 
+## 📖 My life creed 
 
-## Stack I work with
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%E6%B5%A9%E7%84%B6%E6%AD%A3%E6%B0%94%EF%BC%8C%E6%B3%BD%E8%A2%AB%E5%A4%A9%E4%B8%8B)](https://git.io/typing-svg)
+
+## 📚 Tech stack
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
@@ -26,7 +29,7 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
 
-### Interesting stats
+### 💻 Stats
 
 ![Larry's stats](https://github-readme-stats.vercel.app/api?username=chendachao&show_icons=true)
 
